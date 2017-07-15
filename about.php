@@ -1,5 +1,5 @@
 <?php
-    $title ="sobre nosotros";
+    $title ="Sobre Mi | ";
     include "head.php";
     include "sidebar.php";  
 ?>
